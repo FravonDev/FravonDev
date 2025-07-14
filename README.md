@@ -13,7 +13,7 @@
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Amo tecnologia <br>
 - Atualmente me aperfeiçoando Node, React e Nest <br>
-- Adoro programação, animes e tecnologia <br>
+- Adoro programação tecnologia e assistir uma boa série de ficção científica <br>
  <br>
 
 
